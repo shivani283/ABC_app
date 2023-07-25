@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1725" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/drawable/backgroundeditview.xml" value="0.1725" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/drawable/but_gradient.xml" value="0.1485" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/drawable/buttongradient.xml" value="0.12" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/drawable/editviewbackground.xml" value="0.1485" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/drawable/fbbackground.xml" value="0.1485" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/drawable/gbackground.xml" value="0.1485" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1725" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/activity_insta4.xml" value="0.190625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/activity_main2.xml" value="0.190625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/activity_main3.xml" value="0.190625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/fragment_dashboard.xml" value="0.190625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/fragment_insta_fragment.xml" value="0.190625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/fragment_notifications.xml" value="0.190625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/fragment_search.xml" value="0.190625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/search_fragment.xml" value="0.190625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/layout/searchfragment.xml" value="0.180078125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ABC/app/src/main/res/menu/bottom_nav_menu.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

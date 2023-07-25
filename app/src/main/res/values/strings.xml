@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="hello">Hello</string>
+    <string name="to_you_all">To you all</string>
+    <string name="it_s_me">it\'s me</string>
+    <string name="hello_alexa">HEllo alexa</string>
+    <string name="one">One</string>
+    <string name="two">two</string>
+    <string name="three">/Three</string>
+    <string name="One">One</string>
+    <string name="Two">Two</string>
+    <string name="Three">Three</string>
+    <string name="upload_image">Upload image</string>
+    <string name="already_have_account_login">Already have account? Login</string>
+    <string name="already_have_account__login">Already have account? Login</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="or_with">Or With</string>
+    <string name="register">Register</string>
+    <string name="dots">...........</string>
+    <string name="abcd_gmail_com">abcd@gmail.com</string>
+    <string name="_1_23_1456789">+1 23 1456789</string>
+    <string name="user_name">User Name</string>
+    <string name="registe">Register</string>
+    <string name="skip">Skip</string>
+    <string name="login">Login</string>
+    <string name="Password">Hello1</string>
+    <string name="title_activity_insta4">Insta_Activity4</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">Search</string>
+    <string name="plus">Plus</string>
+    <string name="heart">Heart</string>
+    <string name="profile">Profile</string>
+    <string name="want_to_create_account">Want to create account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="shiv">Shiv</string>
+    <string name="rajasthan">Rajasthan</string>
+    <string name="jodhpur">Jodhpur</string>
+    <string name="shivani">Shivani</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="notification_fragment">Notification Fragment</string>
+</resources>

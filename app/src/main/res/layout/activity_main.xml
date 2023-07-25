@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    tools:context=".MainActivity"
+    android:background="@drawable/background"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#C1000000">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#3EE9DCDC">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="50dp"
+                android:layout_marginBottom="15dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/plate"
+                    android:layout_width="match_parent"
+                    android:layout_height="114dp"
+                    android:layout_margin="10sp"
+                    android:layout_marginStart="20sp"
+                    android:layout_marginEnd="10sp"
+                    android:layout_marginBottom="100sp"
+                    app:srcCompat="@drawable/plate"
+                    app:tint="#ffff" />
+
+                <TextView
+                    android:id="@+id/cafehousetxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="103dp"
+                    android:layout_marginTop="10sp"
+                    android:fontFamily="cursive"
+                    android:gravity="center"
+                    android:text="Cafe House"
+                    android:textColor="#FAFAF6F6"
+                    android:textSize="60sp"
+                    android:textStyle="italic"
+                    tools:ignore="HardcodedText" />
+
+                <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/profile_image"
+                    android:layout_width="96dp"
+                    android:layout_height="96dp"
+                    android:src="@drawable/background"
+                    app:civ_border_color="#FF000000"
+                    app:civ_border_width="2dp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/loginbutton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="34sp"
+                    android:background="@drawable/but_gradient"
+                    android:text="@string/login"
+                    android:textColor="#FAF6F0F0"
+                    android:textSize="20dp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/regbutton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/but_gradient"
+                    android:text="@string/registe"
+                    android:textColor="#EEF1EEEE"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/skiptxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="34sp"
+                    android:gravity="center"
+                    android:text="@string/skip"
+                    android:textColor="#F7FAECEC"
+                    android:textSize="20sp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"></com.google.android.material.textfield.TextInputLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</RelativeLayout>
